@@ -1,2 +1,2 @@
 # Leetcode
-This repository contains solutions to leetcode problems
+This repository contains solutions to leetcode problems in C++.
